@@ -9,4 +9,4 @@ ollama --version
 
 ollama pull llama3.1:8b
 
-echo "type /bye to exit, ollama --run llama3.1 to start it again"
+echo "type /bye to exit, ollama run llama3.1 to start it"
